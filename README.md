@@ -23,13 +23,14 @@ This is where the time the enemy activity was observed.
 ##  E: Equipment
 This final portion of the report is meant to be quite detailed and is identifying the equipment associated with the enemy and their respective activity. Take note, there is a difference between detailed and long-winded. 
 
-
+# how it works
 
 The integration works using the ManageKML/postKML [API](https://freetakteam.github.io/FreeTAKServer-User-Docs/API/REST_APIDoc). 
 
 The result appears on the map as a pin with attached metadata:
 
 ![image](https://user-images.githubusercontent.com/60719165/125200108-d5a35400-e23f-11eb-934e-fc04210820c4.png)
+a private data package, with the name of the report is created in FTS and can be downloadeded later.
 
 # Installation
  - Download the flow
