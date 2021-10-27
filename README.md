@@ -31,3 +31,11 @@ The result appears on the map as a pin with attached metadata:
 
 ![image](https://user-images.githubusercontent.com/60719165/125200108-d5a35400-e23f-11eb-934e-fc04210820c4.png)
 
+# Installation
+ - Download the flow
+ - import into Node Red
+ - cutomize the http request node with your IP and API token
+![image](https://user-images.githubusercontent.com/60719165/139072329-d3f0b0b7-ae98-4b38-bfcd-43b7f8aaa7a1.png)
+
+ - deploy the node and start using it 
+
