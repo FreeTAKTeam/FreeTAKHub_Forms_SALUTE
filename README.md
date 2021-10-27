@@ -28,5 +28,6 @@ This final portion of the report is meant to be quite detailed and is identifyin
 The integration works using the ManageKML/postKML [API](https://freetakteam.github.io/FreeTAKServer-User-Docs/API/REST_APIDoc). 
 
 The result appears on the map as a pin with attached metadata:
+
 ![image](https://user-images.githubusercontent.com/60719165/125200108-d5a35400-e23f-11eb-934e-fc04210820c4.png)
 
